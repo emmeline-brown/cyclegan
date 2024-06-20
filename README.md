@@ -11,3 +11,4 @@ For more information or collaboraitons, please contact: simon.walkersamuel@ucl.a
 
 
 Model weights generated during training are available here: 
+https://www.dropbox.com/scl/fo/tbezjphi8qnntul7rmqpp/AGtoJdQINdpgum1GK4Bmt3I?rlkey=xfk5gxy6myzpx2i2lj6fd3fla&dl=0
