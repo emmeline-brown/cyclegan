@@ -1,5 +1,5 @@
 # cyclegan
-CycleGAN code instatiated from directly https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix with adjustments described in PI-GAN paper
+CycleGAN code instatiated directly from https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix with adjustments described in PI-GAN paper below:
 
 **Physics-informed deep generative learning for quantitative assessment of the retina**
 
